@@ -4,6 +4,29 @@
   "private": true,
   "version": "0.0.1",
   "type": "module",
+  "author": {
+    "name": "zwf1110",
+    "url": "https://github.com/zwf1110"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/zwf1110/browser-ai-chat#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zwf1110/browser-ai-chat.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zwf1110/browser-ai-chat/issues"
+  },
+  "keywords": [
+    "browser-extension",
+    "chrome-extension",
+    "ai",
+    "chat",
+    "wxt",
+    "vue3",
+    "openai",
+    "manifest-v3"
+  ],
   "scripts": {
     "dev": "wxt",
     "dev:firefox": "wxt -b firefox",

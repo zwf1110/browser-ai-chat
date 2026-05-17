@@ -3,11 +3,18 @@
 WXT + Vue 3 + Pinia 构建的浏览器 AI 对话插件，支持多模型、深度思考、流式响应、Markdown / 代码高亮 / KaTeX 公式渲染、可拖拽悬浮按钮、自定义快捷键和主题色。
 
 <p align="center">
+  <a href="https://github.com/zwf1110/browser-ai-chat"><img src="https://img.shields.io/github/stars/zwf1110/browser-ai-chat?style=social" /></a>
+  <a href="https://github.com/zwf1110/browser-ai-chat/issues"><img src="https://img.shields.io/github/issues/zwf1110/browser-ai-chat" /></a>
+  <a href="https://github.com/zwf1110/browser-ai-chat/blob/main/README.md"><img src="https://img.shields.io/badge/license-MIT-blue" /></a>
   <img src="https://img.shields.io/badge/WXT-0.19-4f46e5" />
   <img src="https://img.shields.io/badge/Vue-3.5-42b883" />
   <img src="https://img.shields.io/badge/TypeScript-5.7-3178c6" />
   <img src="https://img.shields.io/badge/Manifest-V3-orange" />
 </p>
+
+> 仓库地址：<https://github.com/zwf1110/browser-ai-chat>　|　作者：[@zwf1110](https://github.com/zwf1110)
+>
+> 🌟 如果这个项目对你有帮助，欢迎点一个 [Star](https://github.com/zwf1110/browser-ai-chat) 支持一下，这是我持续更新的最大动力～
 
 ---
 
@@ -156,6 +163,21 @@ npm run compile
 
 ---
 
+## 作者
+
+- **zwf1110** - [GitHub](https://github.com/zwf1110)
+
+欢迎 Star / Fork / PR。问题或建议请走 [Issues](https://github.com/zwf1110/browser-ai-chat/issues)。
+
+## 仓库
+
+- 主页：<https://github.com/zwf1110/browser-ai-chat>
+- 克隆：
+
+  ```bash
+  git clone https://github.com/zwf1110/browser-ai-chat.git
+  ```
+
 ## License
 
-MIT
+[MIT](./LICENSE) © 2026 [zwf1110](https://github.com/zwf1110)
